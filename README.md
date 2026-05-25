@@ -159,18 +159,6 @@ This project demonstrates:
 
 ---
 
-##  Portfolio Value
-
-This project simulates a real-world fintech/business intelligence use case suitable for:
-
-- Data Analyst roles
-- Business Analyst roles
-- BI Analyst roles
-- Product Analytics roles
-- Fintech Analytics positions
-
----
-
 ##  Author
 
 **Lubna Shireen R**  
